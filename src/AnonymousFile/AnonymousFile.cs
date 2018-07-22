@@ -5,7 +5,7 @@
 namespace Anonymous
 {
     using System.IO;
-
+    
     /// <summary>
     /// 提供對匿名檔案的部分操作支援
     /// </summary>
