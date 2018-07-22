@@ -25,5 +25,7 @@ if(file.Retrieve(id, out fs))
 file.Delete(id);
 ```
 
+#### Screenshot
+![screenshot](./img/screenshot.png)
 #### License
 MIT License
